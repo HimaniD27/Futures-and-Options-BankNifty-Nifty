@@ -40,12 +40,12 @@ The following strategy is implemented **sequentially**.
 >Locate the folder of this project on your computer.
 
 4. Open R Studio:
->Inside the project folder, find a file named [Futures and Options.Rproj](https://github.com/HimaniD27/Futures-and-Options-BankNifty-Nifty/blob/main/Futures%20and%20Options.Rproj).
->Open this file, and it will automatically open RStudio.
+>Inside the project folder, there will be an R project named [Futures and Options.Rproj](https://github.com/HimaniD27/Futures-and-Options-BankNifty-Nifty/blob/main/Futures%20and%20Options.Rproj).
+>Open this, and it will automatically open RStudio.
 
 5. Run Code:
->RStudio will automatically open the file named [fno_banknifty.R](https://github.com/HimaniD27/Futures-and-Options-BankNifty-Nifty/blob/main/fno_banknifty.R) and [fno_nifty.R](https://github.com/HimaniD27/Futures-and-Options-BankNifty-Nifty/blob/main/fno_nifty.R).
->Or from the Files pane, open this file and run the code inside.
+>RStudio will automatically open the files named [fno_banknifty.R](https://github.com/HimaniD27/Futures-and-Options-BankNifty-Nifty/blob/main/fno_banknifty.R) and [fno_nifty.R](https://github.com/HimaniD27/Futures-and-Options-BankNifty-Nifty/blob/main/fno_nifty.R).
+>Or from the Files pane, open these files and run the code inside.
 
 6. View Plots:
 >After running the code, check the working directory.
