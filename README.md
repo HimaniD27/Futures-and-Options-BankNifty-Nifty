@@ -49,8 +49,8 @@ For analysis, we have crafted tables and corresponding scatterplots for each mon
 
 * Profitable Months: January, February, March, May, July, August, September, November
 * Loss-Making Months: April, June, October, December
-* Months in which buying Call Options contracts is preferable: March, April, May, September, October, December
-* Months in which buying Put Options contracts is preferable: January, February, June, July, August
+* Months in which Call Options contracts are preferable: March, April, May, September, October, December
+* Months in which Put Options contracts are preferable: January, February, June, July, August
 
 
 ## Analytical Summary: Nifty 
@@ -73,8 +73,8 @@ For analysis, we have crafted tables and corresponding scatterplots for each mon
 
 * Profitable Months: January, March, September, November
 * Loss-Making Months: February, April, May, June, July, August, December
-* Months in which buying Call Options contracts is preferable: March, April, May, July, September
-* Months in which buying Put Options contracts is preferable: January, February, June, August, November, December 
+* Months in which Call Options contracts are preferable: March, April, May, July, September
+* Months in which Put Options contracts are preferable: January, February, June, August, November, December 
 
 
 
